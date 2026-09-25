@@ -4,7 +4,7 @@
 
 **AI Product Developer @ AISO | Founder @ Stealth AI startup | I build LLM agents**
 
-Haarlem, Netherlands
+Amsterdam Area, Netherlands
 
 [LinkedIn](https://www.linkedin.com/in/artem-mamedov) · [GitHub](https://github.com/artemamedov) · [Email](mailto:mmd.artem64@gmail.com)
 
@@ -17,7 +17,7 @@ Haarlem, Netherlands
 - I build LLM agents: tool use, model routing, local models.
 - At AISO AI Projects I built a "Briefing Researcher" agent for an AI client-intake system.
 - Founder of a stealth AI startup, building a personal AI product with multiple agents.
-- Live demos: [Black Hole Lab](https://black-hole-lab.vercel.app) · [Coffee Cyprus](https://coffee-cyprus.vercel.app)
+- Live demos: [Black Hole Lab](https://blackhole.mmd.red) · [Coffee Cyprus](https://coffee-cyprus.vercel.app)
 - Open to part-time AI engineering roles in the Amsterdam area or remote.
 
 ## Focus Areas
